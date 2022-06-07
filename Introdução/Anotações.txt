@@ -1,0 +1,3 @@
+Anotações Uteis:
+
+Link Download do Git: https://git-scm.com/downloads
